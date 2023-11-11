@@ -160,10 +160,16 @@ nav ul li {
   padding: 1.25rem;
 }
 
+.shrink {
+  width: 7rem;
+  height: 10rem;
+}
+
 .icon {
   width: 11.875rem;
   height: 11.25rem;
 }
+
 /* Skills section ends */
 
 /* Projects section */
@@ -422,3 +428,4 @@ footer {
     max-width: 17.75rem;
   }
 }
+
